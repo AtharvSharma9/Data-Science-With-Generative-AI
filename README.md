@@ -32,8 +32,8 @@ Key topics include:
 
 ## 📅 Timeline
 
-- Course Start Date: [Insert Start Date]
-- Expected Completion: [Insert End Date]
+- Course Start Date: [14/04/25]
+- Expected Completion: [15/10/25]
 
 ## 🌟 Goals
 
